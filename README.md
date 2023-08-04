@@ -26,11 +26,12 @@ This is a web scraping project aimed at collecting and analyzing rent prices in 
 2. Install the required libraries: `pip install beautifulsoup4 requests`
 3. Run the main script: `python main.py`
 
-## Ethical Considerations
+## Ethical Consideration
 
 Always check the website's Terms of Service and robots.txt file before scraping. Respect website policies and do not overload servers with excessive requests.
 
 ## Learning Experience
 
 Throughout this project, I encountered various challenges and learned how to overcome them, which significantly improved my web scraping skills.
+I have scraped https://www.99acres.com/sector-21-panchkula-overview-piffid
 
